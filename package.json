@@ -8,9 +8,9 @@
     "do"
   ],
   "scripts": {
-    "start": "npm -w do run start",
-    "stage": "npm -w do run stage",
-    "build": "npm -w do run build"
+    "start": "ELTY_OPTIONS='--input=./site-1' npm -w do run start",
+    "stage": "ELTY_OPTIONS='--input=./site-1' npm -w do run stage",
+    "build": "ELTY_OPTIONS='--input=./site-1' npm -w do run build"
   },
   "author": "Anton Staroverov",
   "license": "MIT",

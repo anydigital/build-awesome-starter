@@ -6,7 +6,7 @@ backend:
   branch: main
 
 # Global configuration
-media_folder: /src/_public/media
+media_folder: /_public/media
 public_folder: /media
 output:
   omit_empty_optional_fields: true
@@ -15,9 +15,8 @@ output:
 collections:
   - name: content
     label: Content
-    folder: /src
+    folder: /site-1
     slug: "{{fields._slug}}"
-    create: true
     fields:
       - { label: Title, name: title, widget: string, required: false }
       - { label: Body, name: body, widget: markdown, required: false }

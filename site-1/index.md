@@ -2,9 +2,9 @@
 
 Ultra-lightweight, modern Eleventy v4 starter (with Tailwind & CMS included!)
 
-<div class="flex gap-2 not-prose">
+<div class="flex gap-2">
   <img src="https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c">
-  <img src="https://img.shields.io/github/v/release/anydigital/sveleven?color=white&">
+  <img src="https://img.shields.io/github/v/release/anydigital/sveleven?color=white">
   <a href="https://github.com/anydigital/sveleven"><img src="https://img.shields.io/github/stars/anydigital/sveleven"></a>
 </div>
 
@@ -91,7 +91,7 @@ https://any.digital/ &nbsp;
 
 Repository: https://github.com/anydigital/sveleven
 
-Found it useful? Donate a ~~dollar~~ star: &nbsp;[![](https://img.shields.io/github/stars/anydigital/sveleven)](https://github.com/anydigital/sveleven)
+Found it useful? Donate a ~~dollar~~ star: [![](https://img.shields.io/github/stars/anydigital/sveleven)](https://github.com/anydigital/sveleven)
 
 Featured in:
 
