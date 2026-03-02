@@ -1,6 +1,6 @@
 # Sveleven
 
-Ultra-lightweight, modern Eleventy v4 starter (with Tailwind & CMS included!)
+Ultra-lightweight yet modern Eleventy v4 starter (with Tailwind & CMS included!)
 
 <img src="https://img.shields.io/github/v/release/anydigital/sveleven?color=black&label=">
 <img src="https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&labelColor=black&label=">
