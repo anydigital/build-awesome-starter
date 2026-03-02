@@ -13,13 +13,25 @@ Ultra-lightweight, modern Eleventy v4 starter (with Tailwind & CMS included!)
 2. **"Thin client" architecture**  
    <sup>thanks [eleventy-bricks](https://github.com/anydigital/eleventy-bricks) for reusability</sup>
 3. **Tailwind v4 included**  
-   <sup>with Typography plugin & [bricks](https://github.com/anydigital/bricks) theme</sup>
+   <sup>with Typography plugin & <i class="fa-solid fa-cubes-stacked"></i> [bricks](https://github.com/anydigital/bricks) theme</sup>
 4. **Sveltia CMS included**  
    <sup>modern Decap/Netlify CMS successor</sup>
 5. **Multisite support**  
    <sup>thanks to symlink-based setup</sup>
 6. **One-click start**  
    [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/sveleven)
+
+---
+
+## How it works?
+
+**Sveleven** is an advanced version of 🥷 [*Blade*switch](https://bladeswitch.com/) starter:
+
+- _BUT_ focusing exclusively on Eleventy & Nunjucks and adding Tailwind support
+- It uses Nunjucks version of the same universal <i class="fa-solid fa-cubes-stacked"></i> [bricks](https://github.com/anydigital/bricks) theme
+  - Allowing you to easily switch from `tailwind` to `pico.css` or even bare-metal `bricks.css` any time
+- And same [eleventy-bricks](https://github.com/anydigital/eleventy-bricks) plugin for reusability
+  - You will find `eleventy.config.js` symlinked from there by default (so you don't have to maintain it anymore)
 
 ---
 
