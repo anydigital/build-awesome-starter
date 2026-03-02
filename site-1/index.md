@@ -28,10 +28,11 @@ Ultra-lightweight, modern Eleventy v4 starter (with Tailwind & CMS included!)
 **Sveleven** is an advanced version of 🥷 [*Blade*switch](https://bladeswitch.com/) starter:
 
 - _BUT_ focusing exclusively on Eleventy v4 and adding Tailwind v4 support
-- It uses Nunjucks version of the same universal <i class="fa-solid fa-cubes-stacked"></i> [bricks](https://github.com/anydigital/bricks) theme
-  - So you can easily switch from `tailwind` to `pico.css` or even bare-metal `bricks.css` any time
+- It uses Nunjucks version of the same *universal* <i class="fa-solid fa-cubes-stacked"></i> [bricks](https://github.com/anydigital/bricks) theme
+  - *universal* means you can switch `.njk` to `.liquid` any time
+  - *universal* also means you can switch from `tailwind` to `pico.css` or even bare-metal `bricks.css`
 - It uses same [eleventy-bricks](https://github.com/anydigital/eleventy-bricks) plugin for reusability
-  - So you have `eleventy.config.js` symlinked from there by default (so you don't have to maintain it anymore)
+  - `eleventy.config.js` is symlinked from there by default (so you don't have to maintain it anymore!)
 
 ---
 
