@@ -3,8 +3,8 @@
 Ultra-lightweight, modern Eleventy v4 starter (with Tailwind & CMS included!)
 
 <img src="https://img.shields.io/github/v/release/anydigital/sveleven?color=black&label=">
-<img src="https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c">
-<a href="https://github.com/anydigital/sveleven"><img src="https://img.shields.io/github/stars/anydigital/sveleven"></a>
+<img src="https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&labelColor=black&label=">
+<a href="https://github.com/anydigital/sveleven" target="_blank"><img src="https://img.shields.io/github/stars/anydigital/sveleven?label=GitHub"></a>
 
 ## Killer features
 
