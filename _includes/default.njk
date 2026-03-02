@@ -6,6 +6,6 @@
   </main>
   <footer class="prose">
     <hr />
-    {{ site.footer | renderContent('njk', site) | safe }}
+    {{ site.footer | renderContent('njk,md', site) | safe }}
   </footer>
 {% endblock %}
