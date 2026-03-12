@@ -1,4 +1,4 @@
-# Build Awesome Starter
+# 🥷 Build Awesome Starter
 
 Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting 🥷
 
