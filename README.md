@@ -25,7 +25,7 @@ Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multi
 
 ## How it works?
 
-**Build Awesome Starter** is an advanced version of 🥷 [*Blade*switch](https://bladeswitch.com/) starter:
+**Build Awesome Starter** is an advanced version of 🥷 [*Blade*switch](https://github.com/anydigital/bladeswitch) starter:
 
 - _BUT_ focusing exclusively on Eleventy v4 and adding Tailwind v4 support.
 - It reuses same [Blades[-plugin]](https://github.com/anydigital/eleventy-blades) to symlink `eleventy.config.js` by default (so you don't have to maintain it anymore!)
