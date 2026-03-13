@@ -2,10 +2,11 @@
 
 {% block body %}
   <main>
-    <article class="prose lg:prose-xl xl:prose-2xl breakout-all">{{ content | safe }}</article>
+    <article class="prose lg:prose-xl xl:prose-2xl breakout-all"><br>
+      {{ content | safe }}
+    </article>
   </main>
-  <footer class="prose">
-    <hr />
+  <footer class="prose"><hr>
     {{ site.footer | renderContent('njk,md', site) | safe }}
   </footer>
 {% endblock %}
