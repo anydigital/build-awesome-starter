@@ -1,10 +1,14 @@
+![](https://img.shields.io/github/v/release/anydigital/build-awesome-starter?color=black&label=)
+![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&logoColor=white&label=)
+[![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=)](https://github.com/anydigital/build-awesome-starter)
+
 # 🥷 Build Awesome Starter
 
 Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting 🥷
 
-![](https://img.shields.io/github/v/release/anydigital/build-awesome-starter?color=black&label=)
-![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&labelColor=black&label=)
-[![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=GitHub&)](https://github.com/anydigital/build-awesome-starter)
+[![](https://img.shields.io/badge/View_Demo-black?style=for-the-badge)](https://build.blades.ninja/)
+[![](https://img.shields.io/badge/Quick_Deploy-gainsboro?logo=netlify&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/build-awesome-starter)
+[![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=Give%20a%20Star&labelColor=gainsboro&style=for-the-badge)](https://github.com/anydigital/build-awesome-starter)
 
 ## Killer features
 
