@@ -3,8 +3,8 @@
 Modern, lightweight Eleventy v4 starter with Tailwind or Pico.css, CMS and multisiting 🥷
 
 [![](https://img.shields.io/badge/View_Demo-black?style=for-the-badge)](https://build.blades.ninja/)
-[![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&label=Quick%20Deploy&labelColor=gainsboro&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/build-awesome-starter)
-[![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=Give%20a%20Star&labelColor=gainsboro&style=for-the-badge)](https://github.com/anydigital/build-awesome-starter)
+[![](https://img.shields.io/netlify/93494d69-cb21-4ad0-855f-3748d3741e5c?logo=netlify&label=Deploy&style=for-the-badge)](https://app.netlify.com/start/deploy?repository=https://github.com/anydigital/build-awesome-starter)
+[![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=Star&style=for-the-badge)](https://github.com/anydigital/build-awesome-starter)
 
 ## Killer features
 
