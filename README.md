@@ -64,7 +64,7 @@ https://any.digital/ &nbsp;
 
 Found it useful? Give a [![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=Star&)](https://github.com/anydigital/build-awesome-starter)
 
-Featured in:
+Featured by:
 
 - https://11tybundle.dev/starters/ and [blog](https://11tybundle.dev/blog/11ty-bundle-83/)
 - https://www.11ty.dev/docs/starter/
