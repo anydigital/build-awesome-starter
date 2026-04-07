@@ -8,8 +8,8 @@
   ],
   "scripts": {
     "start": "ELTY_OPTIONS='--input=./site-1' npm -w do run start",
-    "stage": "ELTY_OPTIONS='--input=./site-1' npm -w do run stage",
-    "build": "ELTY_OPTIONS='--input=./site-1' npm -w do run build"
+    "prestage": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html",
+    "stage": "ELTY_OPTIONS='--input=./site-1' npm -w do run stage"
   },
   "author": "Anton Staroverov",
   "license": "MIT",
@@ -20,7 +20,7 @@
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
     "@11ty/eleventy-navigation": "^1.0.5",
-    "@anyblades/blades": "^0.27.0-beta.16",
+    "@anyblades/blades": "^0.28.0-alpha.2",
     "@anyblades/eleventy-blades": "^0.28.0-beta.2",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
