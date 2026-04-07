@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@anydigital/build-awesome-starter",
+  "name": "@anyblades/build-awesome-starter",
   "version": "0.9.5",
   "type": "module",
   "workspaces": [
@@ -20,8 +20,8 @@
   "dependencies": {
     "@11ty/eleventy": "^4.0.0-alpha.7",
     "@11ty/eleventy-navigation": "^1.0.5",
-    "@anydigital/blades": "^0.27.0-beta.16",
-    "@anydigital/eleventy-blades": "^0.28.0-beta.2",
+    "@anyblades/blades": "^0.27.0-beta.16",
+    "@anyblades/eleventy-blades": "^0.28.0-beta.2",
     "@tailwindcss/cli": "^4.1.18",
     "@tailwindcss/typography": "^0.5.19",
     "js-yaml": "^4.1.1",

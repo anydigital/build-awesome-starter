@@ -1,1 +1,1 @@
-node_modules/@anydigital/eleventy-blades/src/eleventy.config.js
+node_modules/@anyblades/eleventy-blades/src/eleventy.config.js

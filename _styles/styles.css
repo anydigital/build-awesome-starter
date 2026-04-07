@@ -2,8 +2,7 @@
 /* @TODO: add to tricks-wiki */
 @source "../{_includes,site-*}/**/*.{liquid,njk,md,text,yml}";
 @plugin "@tailwindcss/typography";
-@import "@anydigital/blades";
-@import "@anydigital/blades/theme";
+@import "@anyblades/blades";
 
 /* Custom styles go below */
 @layer base {
