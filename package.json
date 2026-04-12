@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@anyblades/build-awesome-starter",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "type": "module",
   "workspaces": [
     "do"
