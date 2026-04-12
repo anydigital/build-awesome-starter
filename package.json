@@ -8,8 +8,9 @@
   ],
   "scripts": {
     "start": "ELTY_OPTIONS='--input=./site-1' npm -w do run start",
-    "prestage": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html",
-    "stage": "ELTY_OPTIONS='--input=./site-1' npm -w do run stage"
+    "stage": "ELTY_OPTIONS='--input=./site-1' npm -w do run stage",
+    "build": "ELTY_OPTIONS='--input=./site-1' npm -w do run build",
+    "prestage": "curl https://raw.githubusercontent.com/anyblades/bladeswitch/refs/heads/main/admin/index.html -o ./_public/admin/index.html"
   },
   "author": "Anton Staroverov",
   "license": "MIT",
