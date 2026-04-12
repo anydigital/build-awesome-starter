@@ -1,4 +1,4 @@
-# 🥷 Build Awesome Starter <sup>![](https://img.shields.io/github/v/release/anyblades/build-awesome-starter?label=&color=black)</sup>
+## 🥷 Build Awesome Starter <sup>![](https://img.shields.io/github/v/release/anyblades/build-awesome-starter?label=&color=black)</sup>
 
 Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [Blades](https://github.com/anyblades/blades), CMS and multisiting 🥷
 
@@ -7,7 +7,7 @@ Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [Blades](https://git
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=darkslategray&style=for-the-badge)](https://github.com/anyblades/build-awesome-starter)
 [![](https://img.shields.io/github/stars/anyblades/build-awesome-starter?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/build-awesome-starter)
 
-## Killer features
+### Killer features
 
 1. **Eleventy v4 by default**  
    <sup>both v4 (Build Awesome) & v3 supported</sup>
@@ -24,7 +24,7 @@ Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [Blades](https://git
 
 ---
 
-## How it works?
+### How it works?
 
 **Build Awesome Starter** is an advanced version of 🥷 [*Blade*switch](https://github.com/anyblades/bladeswitch) starter:
 
@@ -36,7 +36,7 @@ Modern, lightweight Eleventy v4 starter with Tailwind/Pico, [Blades](https://git
 
 ---
 
-## Local development
+### Local development
 
 As simple as:
 
@@ -51,7 +51,7 @@ CMS will be available locally at `http://localhost:8080/admin/` (or similar port
 
 ---
 
-## Showcase
+### Showcase
 
 https://any.digital/ &nbsp;&nbsp;
 [<i>🥷&nbsp;</i>blades.ninja](https://blades.ninja/) &nbsp;&nbsp;
@@ -60,7 +60,7 @@ https://minform.hostfurl.com/ &nbsp;&nbsp;
 
 ---
 
-## More info
+### More info
 
 <big>Repository: https://github.com/anyblades/build-awesome-starter</big>
 
