@@ -73,6 +73,7 @@ Featured by:
 - https://sveltiacms.app/en/docs/start for [11ty](https://sveltiacms.app/en/docs/frameworks/eleventy)
 - https://blades.ninja/11ty/#min-starters
 - https://bladeswitch.com starter
+- https://github.com/johnheenan/minform starter
 - https://github.com/hostfurl/minformhf starter
 - 🕶️ [awesome-eleventy](https://github.com/anydigital/awesome-11ty-build-awesome)
 
