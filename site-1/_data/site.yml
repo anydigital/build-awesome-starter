@@ -1,7 +1,6 @@
 title: Build Awesome Starter
 description: Modern, lightweight Eleventy v4 starter with Tailwind or Pico; Blades, CMS and multisiting 🥷
 favicon: /favicon.svg
-# gtm_id: YOUR_GTM_ID
 styles:
   - https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.min.css
   - https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css
